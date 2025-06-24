@@ -24,11 +24,7 @@ function App() {
       {
         companyName: "demo4",
         companyId: 4,
-      },
-      {
-        companyName: "demo5",
-        companyId: 5,
-      },
+      }
     ]);
   };
 
